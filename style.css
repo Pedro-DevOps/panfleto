@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(45deg, #F91A06, #FA2001) ;
+}
+div {
+    padding: 2px;
+}
+.panfleto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.panfleto2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    border: 2px solid #000;
+}
+@media all and (max-width: 1200px) {
+    img {
+        width: 100%;
+    }
+}
+@media all and (max-width: 992px) {
+    img {
+        width: 100%;
+    }
+}
+@media all and (max-width: 768px) {
+    img {
+        width: 100%;
+    }
+}
+@media all and (max-width: 600px) {
+    img {
+        width: 100%;
+    }
+}
